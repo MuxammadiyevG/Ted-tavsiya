@@ -1,0 +1,5 @@
+streamlit
+langdetect
+scikit-learn
+nltk
+pandas
